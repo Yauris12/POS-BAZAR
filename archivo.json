@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Grapes",
+    "image": "https://i.pinimg.com/564x/cc/a7/de/cca7de67553d58731481302b01f02747.jpg",
+    "price": 12,
+    "category": "fruits"
+  },
+  {
+    "name": "Oranges",
+    "image": "https://i.pinimg.com/564x/c1/23/78/c12378273be5c4502f10d73f943f6584.jpg",
+    "price": 8,
+    "category": "fruits"
+  }
+]
